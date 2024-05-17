@@ -1,7 +1,7 @@
 import React from 'react'
 import { css } from '@emotion/react'
 
-import HeaderImage from '../../public/images/headerImage.png'
+import HeaderImage from '../images/headerImage.png'
 
 export function Header() {
     return (

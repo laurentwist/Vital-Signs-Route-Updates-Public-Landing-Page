@@ -1,9 +1,9 @@
 import React from 'react'
 import { css } from '@emotion/react'
 
-import ProductScreenshot from '../images/productScreenshot.png'
-import AmbulanceImage from '../images/ambulanceImage.png'
-import TeamImage from '../images/teamPhoto.jpg'
+import ProductScreenshot from '../assets/productScreenshot.png'
+import AmbulanceImage from '../assets/ambulanceImage.png'
+import TeamImage from '../assets/teamPhoto.jpg'
 
 export function WhatWeDo () {
   const info = {

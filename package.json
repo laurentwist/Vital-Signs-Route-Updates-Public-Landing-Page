@@ -4,7 +4,7 @@
   "version": "0.1.0",
   "description": "vital sign route updates",
   "type": "module",
-  "homepage": "https://username.github.io/Vital-Signs-Route-Updates-Public-Landing-Page",
+  "homepage": "https://laurentwist.github.io/Vital-Signs-Route-Updates-Public-Landing-Page",
   "scripts": {
     "dev": "vite",
     "build": "vite build --outDir=dist",
